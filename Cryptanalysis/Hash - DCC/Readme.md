@@ -1,5 +1,4 @@
 For this one this is a little bit more difficult.
-.
 
 First you have to install HashCat which is a password recovery tool (like John the Ripper e.g). You have a lot of documentation, which explain how to install and use this tool.
 
