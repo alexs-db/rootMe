@@ -8,4 +8,6 @@ After install Hashcat, you have to use a dictionary of passwords (rockyou.txt is
 
 Indeed you have to use a dictionary file and a file with the hash to find the flag. But be attentive to what it ask on the subject, you have a little manipulation to do after find the decrypt SHA2 hash.
 
+To correctly decode the hash you have to remove 'k' from the string.
+
 Here a little clue to help you : hashcat -a 0 -m 0 hashs.txt rockyou.txt (don't forget to adapt this command).
