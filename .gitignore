@@ -5,3 +5,5 @@ Cryptanalysis/Hash - MD5/rockyou.txt
 Cryptanalysis/Hash - NT/rockyou.txt
 Cryptanalysis/Hash - NT/hash.txt
 Cryptanalysis/Hash - SHA2/rockyou.txt
+Programming/TCP - Back To School/importSocket.py
+Programming/TCP - Encoded String/importSocket.py
