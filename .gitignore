@@ -36,3 +36,7 @@ App - System/ELF x86 - Stack buffer overflow basic 1/example.png
 App - System/ELF x86 - Stack buffer overflow basic 1/command.txt
 Network/DNS - zone transfert/example (2).png
 Network/DNS - zone transfert/remind.txt
+.DS_Store
+Network/OSPF - Authentification/memo(1).png
+Network/OSPF - Authentification/memo(2).png
+Network/LDAP - null bind/memo.png
