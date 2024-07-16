@@ -16,7 +16,7 @@ X is the 24th letter.
 
 The letter in the first position is A.
 
-So with a shift of 3, X will become.
+So with a shift of 3, X will become A.
 
 I will help you for this challenge, all the world are not encrypted with the same shift so pay attention to this.
 
