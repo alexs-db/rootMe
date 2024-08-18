@@ -35,6 +35,6 @@ Since we've modified the header to use the 'none' algorithm, I take the third op
 
 And here's our freshly modified token!
 
-Now all we have to do is replace the key with BurpSuite when we log in as a guest, and our flag appears:
+Now all we have to do is replace the key with BurpSuite when we log in as a guest, and our flag appears !
 
-You can validate the challenge with the flag :
+
