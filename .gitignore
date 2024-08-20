@@ -29,6 +29,7 @@ Web - Server/HTTP - Open Redirect/rootme.txt
 Web - Server/Weak Password/memo.txt
 Web - Server/PHP - Command injection/memo.txt
 Web - Server/HTTP - IP restriction bypass/example.png
+Web - Server/JWT - Revoked token/memoPostman.png
 
 Web - Client/Javascript - Native code/memo.txt
 Web - Client/Javascript - Native code/rappel.png
